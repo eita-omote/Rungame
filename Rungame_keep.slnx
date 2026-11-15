@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rungame_keep/Rungame_keep.vcxproj" Id="82c7ec87-c44d-4f92-b3f6-d6c6f114923c" />
+</Solution>
